@@ -1,4 +1,4 @@
-[submodule "Sources/PokeAPIClient/PokeAPI"]
+[submodule "Sources/PokeAPIClient/OpenPokeAPI"]
 	path = Sources/PokeAPIClient/OpenPokeAPI
 	url = https://github.com/edonv/OpenPokeAPI
 	branch = main
