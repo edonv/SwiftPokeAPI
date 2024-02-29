@@ -1,0 +1,4 @@
+[submodule "OpenPokeAPI"]
+	path = OpenPokeAPI
+	url = https://github.com/edonv/OpenPokeAPI
+	branch = main
