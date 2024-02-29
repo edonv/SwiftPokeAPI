@@ -1,0 +1,3 @@
+[submodule "Sources/PokeAPIClient/PokeAPI"]
+	path = Sources/PokeAPIClient/PokeAPI
+	url = https://github.com/edonv/OpenPokeAPI
